@@ -1,0 +1,5 @@
+﻿GET /sheep/1
+{"id":1,"name":"Spice","breed":"Gotland","sex":"female"}
+
+GET /sheep
+[{"id":1,"name":"Spice","breed":"Gotland","sex":"female"},{"id":2,"name":"Esther","breed":"Border Leicester","sex":"female"}]
